@@ -1,8 +1,13 @@
-# Support Desk
+# Support Desk : Frontend
 - Support desk is a fully-functional MERN Stack App
 - RESTful API is implemented.
 - In this one can create, view, close tickets, add notes and do all crud operations.
 - It’s authenticated by the JSON web token.
+
+**Live Link: <a href="https://support-desk-api-gee5.onrender.com/api/tickets">Support Desk</a>**
+
+<b>Backend: </b>
+- [Backend Repo](https://github.com/Dikshant09/supportdesk-backend)
 
 ## Requirements
 
