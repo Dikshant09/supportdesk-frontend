@@ -27,8 +27,6 @@ Ensure the API keys are configured in `.env` in this directory. It should includ
 REACT_APP_BASE_URL = 'https://backend_end_app_url.com'
 
 ```
-My backend implementation
-- [Github](https://github.com/Dikshant09/supportdesk-backend)
 
 2. Install dependencies and start the server
 
