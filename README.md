@@ -4,7 +4,7 @@
 - In this one can create, view, close tickets, add notes and do all crud operations.
 - It’s authenticated by the JSON web token.
 
-**Live Link: <a href="https://support-desk-d5y5.onrender.com/">Support Desk</a>**
+**Live Link: <a href="https://your-supportdesk.vercel.app/">Support Desk</a>**
 
 <b>Backend: </b>
 - [Backend Repo](https://github.com/Dikshant09/supportdesk-backend)
